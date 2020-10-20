@@ -2,18 +2,18 @@
 ## Exercise 1.1
 This is getting started with android in android studio
 
-![Exercise 1.1](./images/ex1.png)
+![Exercise 1.1](./images/ex1.1.png)
 
 ## Exercise 1.2
 ### Part A
 Added count and toast functionality on App.
 
-![Exercise 1.2 Part A](./images/ex1.2A.png)
+![Exercise 1.2 Part A](./images/ex1.2B.png)
 
 ### Part B
 Added orientation functionality to App.
 
-![Exercise 1.2 Part B](./images/ex1.2B.png)
+![Exercise 1.2 Part B](./images/ex1.2A.png)
 
 ## Exercise 2
 Added intent functionality with putExtra/getExtra features on App.
