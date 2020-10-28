@@ -44,6 +44,7 @@ Added user navigation.
 
 ![Exercise 4.4](./images/ex4.4.png)
 
+Added recyclerview.
 4.2
 
 ![Exercise 4.5](./images/ex4.5.png)
