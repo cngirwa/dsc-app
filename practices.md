@@ -18,7 +18,7 @@ Added orientation functionality to App.
 ## Exercise 2
 Added intent functionality with putExtra/getExtra features on App.
 
-![Exercise 3](./images/ex2.png)
+![Exercise 3](./images/ex3.png)
 
 
 ## Exercise 3
