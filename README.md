@@ -10,6 +10,6 @@ App for managing social activities for DIT staffs
 
 ## Credits
 Ci Software Solutions, DIT-Staff Community
-#
+
 # Class Practices (Assignments)
 - [Practices](./practices.md)
