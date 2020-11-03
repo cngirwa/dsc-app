@@ -40,11 +40,18 @@ Added clickable image functionality.
 
 ## Exercise 5
 Added user navigation.
-4.1
+4.4
 
 ![Exercise 4.4](./images/ex4.4.png)
 
 Added recyclerview.
-4.2
+4.5
 
 ![Exercise 4.5](./images/ex4.5.png)
+
+
+## Exercise 6
+Cards and Colors
+5.2
+
+![Exercise 5.2](./images/ex5.2.png)
