@@ -55,3 +55,10 @@ Cards and Colors
 5.2
 
 ![Exercise 5.2](./images/ex5.2.png)
+
+
+## Exercise 7
+AsyncTask and AsyncTaskLoader
+7.2
+
+![Exercise 7.2](./images/ex7.2.png)
